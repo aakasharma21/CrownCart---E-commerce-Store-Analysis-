@@ -1,6 +1,6 @@
 <div align="center">
 
-![CrownCart Banner](crowncart_banner_2.png)
+![CrownCart Banner](Dashboard_Screenshots/Welcome.png)
 
 # 🛒 CrownCart — Ecommerce Sales Analysis
 
@@ -194,21 +194,21 @@ The dataset is structured as **4 relational tables** with **16,000+ total record
 ### Page 1 — Sales Overview
 > KPI cards · Gender split · Membership tiers · Device preferences · Payment modes · Revenue by city
 
-![Dashboard Page 1](Dashboard.png)
+![Dashboard Page 1](Dashboard_Screenshots/Dashboard.png)
 
 ---
 
 ### Page 2 — Orders & Payments Intelligence
 > Orders by city · Top 10 most ordered products · Order status breakdown · Payment success vs failure analysis
 
-![Dashboard Page 2](Dashboard2.png)
+![Dashboard Page 2](Dashboard_Screenshots/Dashboard2.png)
 
 ---
 
 ### Page 3 — Product & Revenue Deep Dive
 > Top 10 products by revenue · Revenue by category · Customers by city distribution
 
-![Dashboard Page 3](Dashboard3.png)
+![Dashboard Page 3](Dashboard_Screenshots/Dashboard3.png)
 
 ---
 
